@@ -1,2 +1,2 @@
 # project-2
-js
+Guess my number
